@@ -1,0 +1,18 @@
+Invoice.No: 602691
+Emp.No: 3121411226
+Employee Name: Trần Quang Vinh
+Date: 12/12/2024
+Time: 15:15:45
+============================================================================
+Supplier.ID: Sup.ASUS.001
+Supplier Name: ASUS
+Address: 383/8A Cách Mạng Tháng Tám, Quận 1, TPHCM
+Contact: 0907416668
+============================================================================
+Category Information:
+Category Name: Laptop ASUS Gaming ROG
+Description: 
+
+ASUS Gaming ROG STRIG G15 i9-14900HX  Quantity:20
+ASUS Gaming ROG STRIG G14 i9-13900HX  Quantity:20
+ASUS Gaming ROG STRIG G14 Pro i9-14900HX  Quantity:20

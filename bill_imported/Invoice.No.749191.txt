@@ -1,0 +1,17 @@
+Invoice.No: 749191
+Emp.No: 3121411226
+Employee Name: Trần Quang Vinh
+Date: 12/12/2024
+Time: 15:23:38
+============================================================================
+Supplier.ID: Sup.LENOVO.003
+Supplier Name: LENOVO
+Address: 483/6B10 Hoàng Văn Thụ, Quận Gò Vấp, TPHCM
+Contact: 0938455683
+============================================================================
+Category Information:
+Category Name: Laptop LenoVo gaming
+Description: 
+
+FX580 LenoVo gaming Thin i7-13700H    Quantity:10
+ FX5808 LenoVo gaming Thin i7-12700H    Quantity: 5

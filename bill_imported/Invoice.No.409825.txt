@@ -1,0 +1,19 @@
+Invoice.No: 409825
+Emp.No: 3121411226
+Employee Name: Trần Quang Vinh
+Date: 12/12/2024
+Time: 15:13:04
+============================================================================
+Supplier.ID: Sup.ASUS.001
+Supplier Name: ASUS
+Address: 383/8A Cách Mạng Tháng Tám, Quận 1, TPHCM
+Contact: 0907416668
+============================================================================
+Category Information:
+Category Name: Laptop Gaming ASUS TUF
+Description: 
+
+ASUS Gaming TUF F15 i9-13900H    Quantity:20
+ASUS Gaming TUF F15 i7-13650H    Quantity:10
+ASUS Gaming TUF F15 i7-12700H    Quantity:8
+ASUS Gaming TUF F15 i5-12500H    Quantity:6

@@ -1,0 +1,28 @@
+Invoice.No: 344326
+Emp.No: 3121411226
+Employee Name: Trần Quang Vinh
+Date: 12/12/2024
+Time: 16:32:46
+============================================================================
+Supplier.ID: Sup.MSI.002
+Supplier Name: MSI
+Address: 682 Thảo Điền, Quận 2, TPHCM
+Contact: 0983224863
+============================================================================
+Category Information:
+Category Name: Laptop Gaming MSI
+Description: 
+
+MSI Gaming Thin i5-12500H     	Quantity:20
+
+
+
+
+
+
+============================================================================
+Category Information:
+Category Name: Laptop Gaming MSI
+Description: 
+
+MSI Gaming Thin i7-13600H     	Quantity:12
